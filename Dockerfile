@@ -1,4 +1,4 @@
-FROM runatlantis/atlantis:latest
+FROM runatlantis/atlantis:v0.9.0
 
 LABEL authors="Julian Einhaus"
 
